@@ -3,5 +3,5 @@
 </div>
 <p align="left">Create 2048 game with Javascript and Html Css. this is a simple project for create a game with Javacsript</p>
 <div align="center">
-	<img src="screenshot.pngg">
+	<img src="screenshot.png">
 </div>
